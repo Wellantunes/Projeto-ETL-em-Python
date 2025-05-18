@@ -2,7 +2,8 @@
 Bem-vindo ao meu projeto de Coleta e Tratamento de Dados com Python!
 Este projeto tem como foco a extração, limpeza e organização de dados provenientes de APIs públicas e bancos de dados SQL, utilizando ferramentas poderosas como pandas e requests.
 
-⚙️ Tecnologias e Ferramentas Utilizadas
+⚙️ Tecnologias e Ferramentas Utilizadas:
+
 🐍 Python – Linguagem principal do projeto
 
 📦 Pandas – Manipulação, limpeza e análise de dados
